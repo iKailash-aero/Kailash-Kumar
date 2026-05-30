@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kailash-kumar-r&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Hosur%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Email-kailashkumar.r%40icloud.com-bf91f3?style=flat-square&logo=apple&logoColor=white"/>
   <a href="https://linkedin.com/in/kailash-kumar-r-aero"><img src="https://img.shields.io/badge/LinkedIn-kailash--kumar--r--aero-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
