@@ -20,7 +20,7 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class KailashKumarR:
+
 
     name        = "KAILASH KUMAR R"
     location    = "Hosur, Tamil Nadu, India"
@@ -207,20 +207,13 @@ class KailashKumarR:
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | B.E. Aeronautical Engineering | Kumaraguru College of Technology, Coimbatore | 2023 – 2026 | CGPA: **8.00 / 10** |
-| Diploma – Mechanical Engineering | Er. Perumal Manimekalai Polytechnic College | 2020 – 2023 | **87.54%** |
+| Diploma – Mechanical Engineering | Er. Perumal Manimekalai Polytechnic College | 2020 – 2023 | **87.55%** |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
 
-```
-🛩️  Structural Optimisation    →  Topology optimisation, weight reduction methodologies
-🌀  Advanced CFD               →  LES / DES turbulence models, compressible flow
-📡  AAI ATC Track              →  Junior Executive exam syllabus, ATC procedures
-🏭  HAL / DRDO Prep            →  PSU aerospace exam patterns & technical domains
-🔬  Composites R&D             →  Nano-reinforced hybrids, automated fibre placement (AFP)
 ```
 
 ---
