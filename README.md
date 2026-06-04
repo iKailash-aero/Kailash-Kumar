@@ -22,23 +22,23 @@
 ```python
 class KailashKumarR:
 
-    name        = "Kailash Kumar R"
-    location    = "Coimbatore, Tamil Nadu, India"
+    name        = "KAILASH KUMAR R"
+    location    = "Hosur, Tamil Nadu, India"
     degree      = "B.E. Aeronautical Engineering @ KCT (2026)"
     cgpa        = 8.00
 
-    stack = [
+    stack = 
         "ANSYS Fluent", "ANSYS Mechanical / APDL",
         "CATIA V5", "FEM", "CFD", "FSI",
         "CFRP / GFRP / KFRP Composites",
         "NDT & Aircraft MRO", "DGCA UAV Compliance",
-    ]
+    
 
-    currently_learning = [
+    currently_learning = 
         "Advanced Structural Optimisation",
         "HAL / DRDO Exam Preparation",
         "AAI Junior Executive – ATC Track",
-    ]
+    
 
     fun_fact = "Led CFRP arm fabrication for 2 national UAV competitions"
 
@@ -75,11 +75,7 @@ class KailashKumarR:
 ![NDT](https://img.shields.io/badge/NDT%20Techniques-8B1A1A?style=flat-square&logoColor=white)
 ![GD&T](https://img.shields.io/badge/GD%26T-555555?style=flat-square&logoColor=white)
 
-**Other Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![XFOIL](https://img.shields.io/badge/XFOIL-1A73E8?style=flat-square&logoColor=white)
 
 ---
 
