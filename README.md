@@ -21,30 +21,18 @@
 
 ```python
 
-
+About Me
     name        = "KAILASH KUMAR R"
     location    = "Hosur, Tamil Nadu, India"
     degree      = "B.E. Aeronautical Engineering @ KCT (2026)"
     cgpa        = 8.00
 
-    stack = 
+    Skills 
         "ANSYS Fluent", "ANSYS Mechanical / APDL",
         "CATIA V5", "FEM", "CFD", "FSI",
         "CFRP / GFRP / KFRP Composites",
         "NDT & Aircraft MRO", "DGCA UAV Compliance",
-    
-
-    currently_learning = 
-        "Advanced Structural Optimisation",
-        "HAL / DRDO Exam Preparation",
-        "AAI Junior Executive – ATC Track",
-    
-
-    fun_fact = "Led CFRP arm fabrication for 2 national UAV competitions"
-
-    def motto(self):
-        return "Simulate. Optimise. Fly."
-```
+   
 
 <br clear="right"/>
 
